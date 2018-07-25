@@ -22,7 +22,6 @@ navigate to warmup folder then run the following.
 jest fizzbuzz
 ```
 You should see something similar as the picture below
-![alt text](https://imgur.com/Rvn67kn)
 
 ## Authors
 the31
