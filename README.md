@@ -22,7 +22,7 @@ navigate to warmup folder then run the following.
 jest fizzbuzz
 ```
 
-![capture](https://user-images.githubusercontent.com/17349225/43226444-bef605ec-9010-11e8-9833-d4b9cd0f9356.PNG)
+![capture](https://user-images.githubusercontent.com/17349225/43228145-a05deaaa-9015-11e8-9ca7-9af2cb5d923d.PNG)
 
 You should see something similar as the picture above
 
