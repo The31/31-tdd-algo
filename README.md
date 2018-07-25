@@ -21,7 +21,10 @@ navigate to warmup folder then run the following.
 ```
 jest fizzbuzz
 ```
-You should see something similar as the picture below
+
+![capture](https://user-images.githubusercontent.com/17349225/43226444-bef605ec-9010-11e8-9833-d4b9cd0f9356.PNG)
+
+You should see something similar as the picture above
 
 ## Authors
 the31
